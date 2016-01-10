@@ -14,8 +14,8 @@ docker build -t ashrithr/centos-base .
 
 Here are sample examples of using this image:
 
-**Detached mode**: 
-  
+**Detached mode**
+
   * `docker run -d ashrithr/centos-base` runs supervisord in foreground mode
   * `docker run -d ashrithr/centos-base touch test-file` runs `touch` command first then supervisord in foreground mode and its configured services
 
