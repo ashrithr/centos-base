@@ -1,5 +1,7 @@
 # CentOS Base
 
+[![](https://badge.imagelayers.io/ashrithr/centos-base:latest.svg)](https://imagelayers.io/?images=ashrithr/centos-base:latest 'Get your own badge on imagelayers.io')
+
 CentOS Base image with ssh and supervisor for managing services
 
 ## Build
