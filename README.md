@@ -21,7 +21,7 @@ Here are sample examples of using this image:
 
 **Attached Mode**
 
-  * `docker run -it ashrithr/centos-base` runs supervisord, then attaches the interactive shell
+  * `docker run -it ashrithr/centos-base /bin/bash` runs supervisord, then attaches the interactive shell
 
 ## Adding more services on top of this image
 
